@@ -66,7 +66,3 @@ This project showcases practical Excel skills developed during a Data Technician
 - Analysed customer purchasing patterns  
 - Categorised sales performance for decision-making  
 - Demonstrated how data can inform business strategy  
-
----
-
-## 📁 Project Structure
