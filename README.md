@@ -1,6 +1,5 @@
 # My-Excel-Projects-Repository
 # 📊 Excel Retail & Sales Analysis Project
-**Data Technician Bootcamp – Week 1**
 
 ## 📌 Overview
 This project showcases practical Excel skills developed during a Data Technician bootcamp, using real-world **retail and sales datasets**. The focus was on data cleaning, analysis, and visualisation to extract meaningful business insights.
